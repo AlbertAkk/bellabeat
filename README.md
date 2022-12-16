@@ -1,4 +1,4 @@
-# bellabeat
+# Bellabeat
 Data analysis of a pet project from Google Course
 # 1. Ask
 Business task: Analyze Fitbit data to gain insight and help guide marketing strategy for Bellabeat.
