@@ -37,21 +37,21 @@ In the dataset 3 out of 8 people fall into normal or Healthy Weight range. 4 peo
 
 # 5. Share
 Every finding above was presented via Tableau
-[Average Minutes of Activity split by Intensity](https://public.tableau.com/app/profile/albert.akopian/viz/AverageMinutesofActivitysplitbyIntensity/Sheet1)
-[Average Activity Distance split by Intensity](https://public.tableau.com/app/profile/albert.akopian/viz/AverageActivityDistancesplitbyIntensity/Sheet1)
-[Average minutes spent in bed and asleep](https://public.tableau.com/app/profile/albert.akopian/viz/Averageminutesspentinbedandasleep/Sheet1)
-[Average colories by hour](https://public.tableau.com/app/profile/albert.akopian/viz/Averagecoloriesbyhour/Sheet1)
+[Average Minutes of Activity split by Intensity](https://public.tableau.com/app/profile/albert.akopian/viz/AverageMinutesofActivitysplitbyIntensity/Sheet1) /n
+[Average Activity Distance split by Intensity](https://public.tableau.com/app/profile/albert.akopian/viz/AverageActivityDistancesplitbyIntensity/Sheet1) /n
+[Average minutes spent in bed and asleep](https://public.tableau.com/app/profile/albert.akopian/viz/Averageminutesspentinbedandasleep/Sheet1) /n
+[Average colories by hour](https://public.tableau.com/app/profile/albert.akopian/viz/Averagecoloriesbyhour/Sheet1) /n
 [Average BMI per person](https://public.tableau.com/app/profile/albert.akopian/viz/AverageBMIperperson/Sheet1)
 
 # 6. Act 
 Conclusion based on our analysis:
 
-*Sedentary has the most significant portion of activity. This level takes aberage about half of a day.
-*Most users sleep and spend time in bed the most on Sundays. 
-*People are most active in lunch time and in the evening. An assumption is that people are most likely to take a break at work and leave work in these periods of time.
-*There are different level of BMI amongst people. With the provided data we can assume that the most of users are in overweight range.
+* Sedentary has the most significant portion of activity. This level takes aberage about half of a day. /n
+* Most users sleep and spend time in bed the most on Sundays. /n
+* People are most active in lunch time and in the evening. An assumption is that people are most likely to take a break at work and leave work in these periods of time. /n
+* There are different level of BMI amongst people. With the provided data we can assume that the most of users are in overweight range.
 
 For marketing team:
-*The marketing team can make ads focused on encouraging people do more exercises on the weekends and to be more active either before work in the morning or after around 8pm. 
-*Also encourage people to be more active in theire active time to not be in the sedentery level of activity. 
-*Other option is to provide information about exercises and diets for people with overweight, beacause most of the users are in this range.
+* The marketing team can make ads focused on encouraging people do more exercises on the weekends and to be more active either before work in the morning or after around 8pm. 
+* Also encourage people to be more active in theire active time to not be in the sedentery level of activity. 
+* Other option is to provide information about exercises and diets for people with overweight, beacause most of the users are in this range.
